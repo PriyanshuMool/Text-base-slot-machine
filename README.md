@@ -1,4 +1,4 @@
-I have no rights on this project. I made this project to learn python, and all the rights to the respective creator.
+I  rights on this project. I made this project to learn python, and all the rights to the respective creator.
 I made this project by watching a youtube video (link: https://youtu.be/th4OBktqK1I?si=1mCNDatNSpbEnYQP)
 
 About Project:
